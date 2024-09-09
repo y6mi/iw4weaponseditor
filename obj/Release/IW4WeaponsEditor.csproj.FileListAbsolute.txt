@@ -1,0 +1,10 @@
+F:\repos\IW4WeaponsEditor\IW4WeaponsEditor\bin\Release\IW4WeaponsEditor.exe.config
+F:\repos\IW4WeaponsEditor\IW4WeaponsEditor\bin\Release\IW4WeaponsEditor.exe
+F:\repos\IW4WeaponsEditor\IW4WeaponsEditor\bin\Release\IW4WeaponsEditor.pdb
+F:\repos\IW4WeaponsEditor\IW4WeaponsEditor\obj\Release\IW4WeaponsEditor.csproj.AssemblyReference.cache
+F:\repos\IW4WeaponsEditor\IW4WeaponsEditor\obj\Release\IW4WeaponsEditor.Form1.resources
+F:\repos\IW4WeaponsEditor\IW4WeaponsEditor\obj\Release\IW4WeaponsEditor.Properties.Resources.resources
+F:\repos\IW4WeaponsEditor\IW4WeaponsEditor\obj\Release\IW4WeaponsEditor.csproj.GenerateResource.cache
+F:\repos\IW4WeaponsEditor\IW4WeaponsEditor\obj\Release\IW4WeaponsEditor.csproj.CoreCompileInputs.cache
+F:\repos\IW4WeaponsEditor\IW4WeaponsEditor\obj\Release\IW4WeaponsEditor.exe
+F:\repos\IW4WeaponsEditor\IW4WeaponsEditor\obj\Release\IW4WeaponsEditor.pdb
